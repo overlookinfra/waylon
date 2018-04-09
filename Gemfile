@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sinatra',            '~> 1.4.5'
+gem 'sinatra',            '~> 2.0.0'
 gem 'jenkins_api_client', '~> 1.0.1'
 gem 'deterministic',      '~> 0.6.0'
 # These gems will not bundle on Windows platforms
